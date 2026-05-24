@@ -10,7 +10,7 @@ export const CN_MASKS: BuiltinMask[] = [
       { id: "Lsa_DWgpQT5vDMat6C3sl", date: "2026/5/23 23:44:52", role: "assistant", content: "道德也" }
     ],
     modelConfig: {
-      model: "kimi-k2-0905-preview",
+      model: "gpt-3.5-turbo",
       temperature: 0.5,
       max_tokens: 39990,
       presence_penalty: 0,
@@ -33,7 +33,7 @@ export const CN_MASKS: BuiltinMask[] = [
       { id: "EKaIzQyoha-yPRJVWcV8q", date: "2026/5/23 16:18:02", role: "system", content: "极善阴符经" }
     ],
     modelConfig: {
-      model: "kimi-k2-0905-preview",
+      model: "gpt-3.5-turbo",
       temperature: 0.5,
       max_tokens: 400000,
       presence_penalty: 0,
